@@ -4,8 +4,8 @@ To Simulate verilog HDL for 4 bit Ripple Carry Adder using Quartus II
 ### Software Required : 
 Quartus II
 
-### Deeveloped By : K MADHAVA REDDY
-### Register Number : 212223240064
+### Deeveloped By : MOHAN KRISHNA J
+### Register Number : 212223220060
 ### PROGRAM :
 ```
 module RippleCarryAdder(
